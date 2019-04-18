@@ -28,5 +28,5 @@ do {
   console.log("I run once regardless.")
 }
 while (doWhileLoop(10)<num) {
-  console.log()
+  console.log("I run once regarless.")
 }
