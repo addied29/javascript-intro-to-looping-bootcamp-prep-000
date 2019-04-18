@@ -15,7 +15,7 @@ return array;
 function whileLoop(n){
   return Math.random(Math.floor(n)) >=0 ;
 }
-while (n === 0) {
+while (whileLoop(n === 0)) {
   console.log('done')
   
 }
