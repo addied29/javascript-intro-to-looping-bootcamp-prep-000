@@ -20,8 +20,8 @@ return ('done')
 }
 
 function doWhileLoop(num){
-  num = num + 1;
-  return num;
+  num = i + 1;
+  return i;
 }
 do {
   console.log("I run once regardless.")
