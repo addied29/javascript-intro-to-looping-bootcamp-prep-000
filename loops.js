@@ -13,9 +13,9 @@ return array;
 }
 
 function whileLoop(n){
-  return Math.floor(Math.random(n) >=0) ;
+  return Math.floor(Math.random(n) >=0.5) ;
 }
-while (n === 1) {
+while (n === 0) {
   console.log('done')
   
 }
