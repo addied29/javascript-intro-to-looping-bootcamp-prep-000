@@ -19,6 +19,7 @@ while (n > 0) {
 return ('done')
 }
 
+var i=0
 function doWhileLoop(num){
   i = i + 1;
   return i;
