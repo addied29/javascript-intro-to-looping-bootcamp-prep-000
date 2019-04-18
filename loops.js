@@ -19,4 +19,6 @@ while (n > 0) {
 return ('done')
 }
 
-function doWhileLoop()
+function doWhileLoop(num){
+  
+}
