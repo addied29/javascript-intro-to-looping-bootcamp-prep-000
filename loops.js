@@ -13,7 +13,7 @@ return array;
 }
 
 function whileLoop(n){
-  return Math.floor() >=0 ;
+  return Math.floor(n) >=0 ;
 }
 while (n === 0) {
   console.log('done')
