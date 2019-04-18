@@ -20,7 +20,7 @@ return ('done')
 }
 
 function doWhileLoop(num){
-  num = i + 1;
+  i = i + 1;
   return i;
 }
 do {
