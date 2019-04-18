@@ -15,6 +15,7 @@ return array;
 function whileLoop(n){
   return Math.random(n)<0;
 }
+let countdown= (n)
 while (countdown > 0) {
   console.log('done')
   
